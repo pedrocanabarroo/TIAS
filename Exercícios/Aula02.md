@@ -1,10 +1,6 @@
-Trabalhos da Computação UFN com aplicação na Saúde
-Análise De Sequenciamento Genético Em Proband Para Identificar As Mutações Genéticas E Divergências Encontradas
-- autores: JEFERSON DA SILVA GRIGOLO e Sylvio Garcia Vieria
-- curso: Sistemas de Informação
-- link: https://tcconline.lapinf.ufn.edu.br/media/midias/TFG_2_-_JefersonGrigolo.pdf
-- resumo ou ideia básica: análise de dados de gênica (base de dados real) e via ecosistema Python realizar predição de genes com mutações
+Classificador para a predição de aluno evasor de graduação em universidades particulares
+- autores: crhistopher lenhard, mirkos ortiz martins
+- curso: ciência da computação
+- link: https://tcconline.lapinf.ufn.edu.br/media/midias/Crhistopher_Lenhard_G8ljkCo.pdf
+- resumo: identificar características mais relevantes e consequente classificação dos alunos entre evasores e não evasores.
 - rotina: predição
-
-(Exemplo)
-
