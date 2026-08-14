@@ -1,0 +1,25 @@
+- entender na prática previsão e predição
+  - usaremos o google colab
+      - pandas
+        - dataframes: são dados armazenados pós ETL
+        - métodos ou recursos de leitura de dados (SGBD ou csv ou json)
+      - numpy
+        - tratamento de estruturas de dados
+      - scikit-learn:
+          - modelos pré-treinados (teoria de redes neurais artificiais: amostras repetidas e ajustes de peso):
+            - predição (classifica ou categoriza ou rotula ou etiqueta)
+            - previsão (a partir de série temporal estima o próximo item da série)
+
+
+- treinamento de modelo
+  - regra do negócio: atributos a serem avaliados
+  - base de dados (fonte de amostras) para o treinamento
+    - ETL (Extração, Transformação e carga): organização de dados pre-treinamento
+      - BD
+        - plugins de conexão do pandas com SGBD
+      - csv (melhor que json)
+      - padronizar a estrutura de dados a ser minerada
+        - [] (listas)
+        - {} (dicionário)
+        - {key:dados}
+  - definir se predição ou previsão 
