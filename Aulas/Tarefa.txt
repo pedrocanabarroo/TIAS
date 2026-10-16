@@ -1,0 +1,3 @@
+- gerar relatório, indicando:
+	- técnicas de IA utilizadas e em quais situações/cenários
+	- avaliar a relação situação/cenário com técnica IA utilizada
